@@ -1,7 +1,15 @@
 # BROICISM: 52 rules of life
 
 Yo Bro, I asked the AI to turn what I consider one of the most important book of the universe into something you can fully appreciate.
+
 Here is the thing. The pdf version is in the repository too.
+
+You will also find other good stuff in this repository:
+
+- notebooklm podcasts (it's a very good entrypoint if you ask me).
+- The bro version of the meditations of Marcus Aurelius.
+
+Without further ado, here goes the bro version of the **Enchiridion**.
 
 # Know What You Control (And What You Don’t)
 
